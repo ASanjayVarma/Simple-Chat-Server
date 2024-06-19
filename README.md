@@ -23,7 +23,7 @@ This is a basic client-server chat application developed in Python using the `so
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/ASanjayVarma/Simple-Chat-Server.git>
     cd <repository-directory>
     ```
 
@@ -119,11 +119,3 @@ while True:
     message = input("You: ")
     client.send(message.encode('utf-8'))
 ```
-
-## Contributing
-
-Feel free to fork this repository, submit issues and pull requests. We appreciate all contributions to improve this simple chat application.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
